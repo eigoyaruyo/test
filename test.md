@@ -11,10 +11,10 @@
 
 [リンク](https://www.google.co.jp/)
 
-'''
+```
 class RubyClass
   def ruby_method
     "ret"
   end
 end
-'''
+```
