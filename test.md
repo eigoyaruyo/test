@@ -5,24 +5,24 @@
 
 #ファイルの構成
 ```	
-index.html ･･･ Viewer表示用HTML  
+index.html				// Viewer表示用HTML  
 /css  
-	base.css ･･･ Viewerのスタイル設定  
+	base.css			// Viewerのスタイル設定  
 /data  
-	data_japan.json ･･･ イベントサンプルデータ（日本対象）  
-	data_world.json ･･･ イベントサンプルデータ（世界対象）  
-	japan.php ･･･ イベントサンプルデータを返すダミーサーバサイド（日本対象）  
-	world.php ･･･ イベントサンプルデータを返すダミーサーバサイド（世界対象）  
-	japan.geojson ･･･ 日本地図データ  
-	world.geojson ･･･ 世界地図データ  
-	settings.json ･･･ 設定ファイル  
-	label_template.txt ･･･ 画面に表示する情報ラベルのテンプレート  
-	noimage.png ･･･ 画像サンプルデータ  
-	sample.png ･･･画像サンプルデータ  
-/fonts ･･･ フォント用データ  
-/lib ･･･ 使用ライブラリ  
+	data_japan.json		// イベントサンプルデータ（日本対象）  
+	data_world.json		// イベントサンプルデータ（世界対象）  
+	japan.php			// イベントサンプルデータを返すダミーサーバサイド（日本対象）  
+	world.php			// イベントサンプルデータを返すダミーサーバサイド（世界対象）  
+	japan.geojson		// 日本地図データ  
+	world.geojson		// 世界地図データ  
+	settings.json		// 設定ファイル  
+	label_template.txt	// 画面に表示する情報ラベルのテンプレート  
+	noimage.png			// 画像サンプルデータ  
+	sample.png			// 画像サンプルデータ  
+/fonts					// フォント用データ  
+/lib					// 使用ライブラリ  
 /script  
-	viewer.js ･･･ Viewer用メインスクリプト  
+	viewer.js			// Viewer用メインスクリプト  
 ```	
 
 # 操作説明
