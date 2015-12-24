@@ -4,6 +4,7 @@
 
 
 #ファイルの構成
+```	
 index.html ･･･ Viewer表示用HTML  
 /css  
 	base.css ･･･ Viewerのスタイル設定  
@@ -22,7 +23,7 @@ index.html ･･･ Viewer表示用HTML
 /lib ･･･ 使用ライブラリ  
 /script  
 	viewer.js ･･･ Viewer用メインスクリプト  
-
+```	
 
 # 操作説明
 ## 全体図（3D）表示時の画面項目説明
